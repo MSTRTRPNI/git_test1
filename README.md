@@ -1,1 +1,1 @@
-This is Traapani's first project!
+This is Trapani's first project!
